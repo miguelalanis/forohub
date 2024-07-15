@@ -33,7 +33,7 @@ Se siguen las mejores prácticas de desarrollo y se adopta el principio SOLID, l
 
 ### Clonar el repositorio:
 ```
-git clone https://github.com/user-name-c/forotech_challenge.git
+git clone https://github.com/miguelalanis/forohub
 ```
 ### Navegar al directorio del proyecto:
 ```
