@@ -37,7 +37,7 @@ git clone https://github.com/miguelalanis/forohub
 ```
 ### Navegar al directorio del proyecto:
 ```
-cd forotech_challenge
+cd forohub
 ```
 Configurar las propiedades de la base de datos en application.properties.
 
